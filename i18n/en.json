@@ -1,0 +1,25 @@
+{
+	"tooltip": {
+		"quick-note": "Quick note"
+	},
+	"actions": {
+		"clear-note": "Clear note"
+	},
+	"toast": {
+		"note-cleared": "Note cleared"
+	},
+	"settings": {
+		"widget-position": "Widget position",
+		"widget-position-description": "Position of widget in bar (for IPC toggle)",
+		"panel-dimensions": "Panel dimensions",
+		"width": "Width",
+		"height": "Height",
+		"reset": "Reset to default",
+		"font-size": "Font size",
+		"font-size-description": "Set the size of the note panel text",
+		"panel-margin": "Panel margin",
+		"panel-margin-description": "Add a margin to the note panel",
+		"use-system-font": "Use system font",
+		"use-system-font-description": "Use system font for note panel text"
+	}
+}

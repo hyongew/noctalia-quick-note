@@ -1,0 +1,1 @@
+# Simpler Notes Plugin (aka Quick Note)

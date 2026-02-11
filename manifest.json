@@ -1,0 +1,32 @@
+{
+  "id": "quick-note",
+  "name": "Simpler Notes",
+  "version": "1.0.0",
+  "minNoctaliaVersion": "4.0.0",
+  "author": "hyongew",
+  "license": "MIT",
+  "repository": "https://github.com/noctalia-dev/noctalia-plugins",
+  "description": "Save 1 quick note in the bar. If you need more, check out fusuyfusuy's 'Simple Notes'",
+  "tags": ["Bar", "Panel", "Productivity"],
+  "entryPoints": {
+    "main": "Main.qml",
+    "barWidget": "BarWidget.qml",
+    "panel": "Panel.qml",
+    "settings": "Settings.qml"
+  },
+  "dependencies": {
+    "plugins": []
+  },
+  "metadata": {
+    "defaultSettings": {
+      "note": "",
+      "widgetPosition": "center",
+      "panelWidth": 350,
+      "panelHeight": 300,
+      "panelMargin": true,
+      "useSystemFont": true,
+      "fontSize": "M"
+    }
+  }
+}
+
